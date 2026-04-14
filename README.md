@@ -15,3 +15,7 @@ BitPalette es una aplicación móvil diseñada para revolucionar la gestión de 
 
 - Node.js `18+`
 - npm `9+`
+
+
+Link del Figma:
+https://www.figma.com/design/rb3HwqS62I3ARk7RnEZ50J/proyecto-BitPalette?node-id=0-1&t=w4HCXbRjGYkUFeI0-0
