@@ -44,3 +44,7 @@ https://expo.dev/accounts/2402044/projects/BitPalette/builds/4944eaec-287a-4395-
 username: admin
 password: 123
 
+## Project archive content
+
+<img width="694" height="406" alt="image" src="https://github.com/user-attachments/assets/85c90961-d059-4df9-82b1-1d58d2f9b208" />
+
