@@ -1,7 +1,7 @@
 # BIT_PALETTE
 BitPalette es una aplicación móvil diseñada para revolucionar la gestión de colorimetría y el diseño visual. Está orientada a ayudar a diseñadores y desarrolladores a encontrar la armonía visual perfecta mediante la generación automática de paletas de colores con sus respectivos códigos hexadecimales.
 
-# PROBLEMATICA  
+## PROBLEMATICA  
 Elegir los colores adecuados para un proyecto muchas veces es complicado y mas cuando te 
 bloqueas buscando colores que combinen y esto hace perder mucho tiempo, mientras 
 tratamos de buscar inspiración en la web. En el desarrollo de software la selección de una 
@@ -19,15 +19,13 @@ BitPalette ofrece un laboratorio que utiliza lógica de colorimetría para suger
 garantizan la armonía visual. 
 
 
-## Stack Tecnológico
+### Stack Tecnológico
 
 - Expo SDK: `~52.0.0`
 - React Native: `0.76.9`
 - React Navigation
 - React Native Paper
 - expo-sqlite
-
-## Ejecutar localmente
 
 ### Android internal distribution build
 - Build ID: 4944eaec-287a-4395-99ce-81693394d21a
