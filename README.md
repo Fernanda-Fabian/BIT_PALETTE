@@ -37,5 +37,10 @@ garantizan la armonía visual.
 ### Link del Figma:
 https://www.figma.com/design/rb3HwqS62I3ARk7RnEZ50J/proyecto-BitPalette?node-id=0-1&t=w4HCXbRjGYkUFeI0-0
 
-###Link Expo para descargar:
+### Link Expo para descargar:
 https://expo.dev/accounts/2402044/projects/BitPalette/builds/4944eaec-287a-4395-99ce-81693394d21a
+
+### Credenciales para iniciar sesión:
+username: admin
+password: 123
+
